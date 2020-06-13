@@ -3,4 +3,4 @@
 #Para ello seguiremos estos pasos:
 1.
 2.
-3.
+3. Voy a analizar los datos
