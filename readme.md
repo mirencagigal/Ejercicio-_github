@@ -7,3 +7,4 @@
 4. Quiero hacer descriptivos
 5.Tambien queremos hacer un sistema de recomandacio
 6.Añadiremos visualizaciones interesantes
+7.
